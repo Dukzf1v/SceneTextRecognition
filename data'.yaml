@@ -1,0 +1,7 @@
+names:
+- text
+nc: 1
+path: D:\StudyPath\SceneTextRecognition\datasets\yolo_data
+test: test/images
+train: train/images
+val: val/images
